@@ -22,8 +22,15 @@ Before you begin, ensure you have met the following requirements:
 
 To install Mattermost Busy, follow these steps:
 
-Linux and macOS:
+### 1. Clone this repository:
+```shell
+git clone https://github.com/giovanni-tufo/mattermost-busy.git
 ```
+
+### 2. Install the dependencies:
+
+Linux and macOS:
+```shell
 python3 -m pip install -r requirements.txt
 ```
 
